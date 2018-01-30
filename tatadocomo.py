@@ -41,7 +41,7 @@ ____ _ _ __ ___ ________
 
 
 '''
-
+#To use this u need to first get the cookie, will automate cookie capture later.
 print 'SMS Flooder - Tata Docomo'
 print 'If flooding doesnt starts or Resp is not SUCCESS, just change the cookie via visiting shop.tatadocomo.com'
 print '#Ougrocks'
